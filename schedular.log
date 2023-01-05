@@ -1,0 +1,10 @@
+at time  1 process  1 started  arr   1  remain 10  wait  0 
+at time 11 process  1 finished  arr   1  remain  0  wait  0  TA 10  WTA  1
+at time 12 process  2 started  arr  12  remain 7  wait  0 
+at time 18 process  2 finished  arr  12  remain  0  wait  0  TA  6  WTA  0
+at time 18 process  3 started  arr  16  remain 4  wait  2 
+at time 22 process  3 finished  arr  16  remain  0  wait  2  TA  6  WTA  1
+at time 25 process  4 started  arr  25  remain 3  wait  0 
+at time 28 process  4 finished  arr  25  remain  0  wait  0  TA  3  WTA  1
+at time 28 process  5 started  arr  25  remain 11  wait  3 
+at time 38 process  5 finished  arr  25  remain  0  wait  3  TA 13  WTA  1
